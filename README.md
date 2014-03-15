@@ -14,6 +14,15 @@ What's this Project?
 How to compile
 ================
 
+#### Using JVM
+
+`
+javac Fibonacci.java 2>&1 
+java -Xmx128M -Xms16M Fibonacci [:input]
+`
+
+#### Via Online
+
 1. http://www.compileonline.com/compile_java_online.php 로 이동
 2. 원하는 자바코드 전체를 "Main class file" 탭에 모두 복사한 다음 "Compile & Execute"버튼을 실행
 3. 화면 하단의 Command Line Arguments에 피보나치 수열의 마지막 항에 해당하는 숫자를 입력
