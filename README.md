@@ -12,14 +12,16 @@ What's this Project?
 How to compile
 ================
 
-*Using JVM
+* Using JVM
 
 '''
+
 javac Fibonacci.java 2>&1
 java -Xmx128M -Xms16M Fibonacci [:input]
+
 '''
 
-*Via Online
+* Via Online
 
 1. http://www.compileonline.com/compile_java_online.php 로 이동
 2. 원하는 자바코드 전체를 "Main class file" 탭에 모두 복사한 다음 "Compile & Execute"버튼을 실행
