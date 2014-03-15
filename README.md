@@ -14,10 +14,10 @@ How to compile
 
 #### Using JVM
 
-'
-javac Fibonacci.java 2>&1
+`
+javac Fibonacci.java 2>&1 
 java -Xmx128M -Xms16M Fibonacci [:input]
-'
+`
 
 #### Via Online
 
