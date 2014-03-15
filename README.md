@@ -8,6 +8,8 @@ What's this Project?
 
 이 프로젝트는 피보나치 수열 구현을 위해 만들어졌습니다.
 
+[피보나치 수열이란?] (http://mirror.enha.kr/wiki/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%97%B4)
+
 
 How to compile
 ================
